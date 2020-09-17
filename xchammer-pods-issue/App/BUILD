@@ -12,6 +12,9 @@ swift_library(
     data = [
         "Resources/Main.storyboard",
     ],
+    deps = [
+        "@SwiftDate//:SwiftDate"
+    ]
 )
 
 filegroup(
