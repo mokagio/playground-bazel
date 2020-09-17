@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# See https://github.com/pinterest/xchammer/issues/182
+/usr/local/bin/xchammer.app/Contents/MacOS/xchammer generate xchammer.yml
